@@ -1,0 +1,5 @@
+[
+  {"model": "shop.product", "pk": 1, "fields": {"name": "Basic Health Checkup", "price": "499.00"}},
+  {"model": "shop.product", "pk": 2, "fields": {"name": "Full Body X-Ray", "price": "849.00"}},
+  {"model": "shop.product", "pk": 3, "fields": {"name": "ECG Screening", "price": "299.00"}}
+]
